@@ -32,5 +32,5 @@ All tables in the main article and supplement can be reproduced by calling the c
 <tt>simulation/bootstrap.jl</tt> for the bootstrap algorithms (Tables 10-14) and 
 <tt>simulation/marginal.jl</tt> for the marginal interpretation (Table 15). 
 
-After adjusting the table parameters `n_i`, `m` and `\boldsymbol{\lambda}` to the desired specification, the program prints out the
+After adjusting the table parameters to the desired specification within the document, the program prints out the
 resulting coverage probability together with power, relative volume and estimated non-centrality parameters in the accordingly names objects. 
