@@ -1,6 +1,6 @@
 # Marginal and Conditional Multiple Inference for Linear Mixed Model Predictors
 
-This repository contains the code which generates the tables and figures in the article 'Marginal and Conditional Multiple Inference for Linear Mixed Model Predictors' and its Supplement. 
+This repository contains the code which generates the tables and figures in the article ['Marginal and Conditional Multiple Inference for Linear Mixed Model Predictors'](https://arxiv.org/abs/1812.09250) and its Supplement. 
 While the case study is performed in R version 4.1.2, the simulation study is coded in Julia version 1.6.0. 
 
 ---
